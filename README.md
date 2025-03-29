@@ -1,6 +1,8 @@
 # XTDrone-Offline-Resources
+
 Backup of XTDrone's required data/files for easy local setup.
-XTDrone 安装所需的数据集和文档归档（如 PDF），用于离线快速配置。所有文件均为原始版本。
+
+XTDrone 安装所需的 GeographicLib 数据集和文档归档，用于离线快速配置。所有文件均为原始版本。
 
 ## Source  
 - [XTDrone Official GitHub](https://github.com/robin-shaun/XTDrone)
